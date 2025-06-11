@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cleanfolio
 
 Cleanfolio is a portfolio template built with React. However, if you prefer a template built with HTML, CSS, and JavaScript, you can check out [Cleanfolio Minimal](https://github.com/rjshkhr/cleanfolio-minimal).
@@ -66,3 +67,6 @@ yarn deploy
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+=======
+# myfolio
+>>>>>>> fb6b4b1d59975072d6c7fba01407e4ab0db88570
