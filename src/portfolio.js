@@ -11,7 +11,7 @@ const about = {
   description:`I’m a frontend engineer who enjoys building clean, responsive, and user-friendly websites using HTML5, CSS, JavaScript, and React. I focus on turning designs into smooth, functional interfaces that look great on any device. I care about writing code that’s organized, easy to maintain, and works well across different browsers. I enjoy working with others to bring ideas to life and create digital experiences that are both useful and enjoyable for users.
 `,
   
-  resume: '/oluchi tech cv.pdf',
+  resume: '/oluchitechcv2.pdf',
   social: {
     linkedin: 'https://www.linkedin.com/in/oluchukwuaroh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app',
     github: 'https://github.com/Peps2/EHYA',
