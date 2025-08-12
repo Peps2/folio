@@ -22,10 +22,11 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Personal Blog Platform (Coming Soon)',
+    name: 'TasteTracker–Smart Food Discovery Platform(Coming Soon)',
     description:
-      'I am currently building a personal blog platform using React. This project will allow users to create, edit, and organize blog posts with a clean and simple interface. It will support Markdown for easy content formatting and include features like tagging and categories to help organize posts. This project helps me practice frontend development, React hooks, and state management.',
-    stack: ['Javascript', 'CSS', 'HTML', 'React'],
+      `Currently building a React-based web app that helps users discover and track their favorite dishes.
+       Features include a clean, component-driven architecture, real-time recommendations via WebSockets, live search, AI-driven suggestions, infinite scrolling, and list virtualization for smooth performance.`,
+    stack: ['Javascript', 'CSS', 'HTML', 'React.js','Tailwind CSS'],
     sourceCode: 'https://github.com',
     // livePreview: 'https://github.com',
   },
@@ -38,8 +39,9 @@ const skills = [
   'HTML',
   'CSS',
   'JavaScript',
-  'React',
+  'React.js',
   'Git',
+  'Tailwind CSS',
 ]
 
 const contact = {
